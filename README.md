@@ -1,0 +1,2 @@
+# 7june2023-javascriptvariable
+7june2023 javascriptvariable
